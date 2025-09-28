@@ -9,3 +9,12 @@
 <img src="https://github.com/mgrzb451/catia-axial_flux_motor/blob/main/visualize/shaft.jpg" />
 <img src="https://github.com/mgrzb451/catia-axial_flux_motor/blob/main/visualize/stator_housing.jpg" />
 
+## Solidworks Simulation
+### Linear Static Analysis
+Utilizing the **Bolt Interactions**
+<img src="https://github.com/mgrzb451/catia-axial_flux_motor/blob/main/solidworks_simulation/static0.jpg" />
+<img src="https://github.com/mgrzb451/catia-axial_flux_motor/blob/main/solidworks_simulation/static1.gif" />
+
+### Modal Frequency Analysis
+<img src="https://github.com/mgrzb451/catia-axial_flux_motor/blob/main/solidworks_simulation/modal0.jpg" />
+<img src="https://github.com/mgrzb451/catia-axial_flux_motor/blob/main/solidworks_simulation/modal1.gif" />
