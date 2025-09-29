@@ -1,8 +1,9 @@
 # Yokeless Segmented Core Axial Flux Motor
 
-I was learning about different types of electric motors and stumbled upon Axial Flux motors which I had never heard about before. That led to a deep dive on how they worked and since I read they're the future of EVs I thought *Hey, what better way to understand them than to design one myself!*
+I was learning about different types of electric motors and stumbled upon Axial Flux motors which I had never heard about before. That led to a deep dive on how they worked and since I read they're the future of EVs I thought *Hey, what better way to understand them than to design one myself!*. Here's my simplified concept of a Yokeless, Segmented Core, Axial Flux Motor
 
 During this project I learned about:
+- Electric motors, their types, principles of operation
 - Electric motor housing cooling methods
 - Sand and Investment casting
 - Bearings and bearing arrangements
