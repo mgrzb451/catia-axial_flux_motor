@@ -28,6 +28,10 @@ During this project I learned about:
 Utilizing the **Bolt Interactions**
 <img src="https://github.com/mgrzb451/catia-axial_flux_motor/blob/main/solidworks_simulation/static0.jpg" />
 <img src="https://github.com/mgrzb451/catia-axial_flux_motor/blob/main/solidworks_simulation/static1.gif" />
+![Screenshot 2025-09-26 172458](https://github.com/user-attachments/assets/14b5c402-7cfd-4266-8379-ae927d03b9f8)
+![Screenshot 2025-09-26 172347](https://github.com/user-attachments/assets/a8a53b40-8468-4f6e-b915-b8ae463be46f)
+![Screenshot 2025-09-27 083246](https://github.com/user-attachments/assets/4ad9c606-b4ae-4ec9-adda-8de8a118b0d2)
+
 
 ### Modal Frequency Analysis
 <img src="https://github.com/mgrzb451/catia-axial_flux_motor/blob/main/solidworks_simulation/modal0.jpg" />
