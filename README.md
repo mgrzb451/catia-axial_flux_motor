@@ -5,6 +5,8 @@ I was learning about different types of electric motors and stumbled upon Axial 
 During this project I learned about:
 - Electric motor housing cooling methods
 - Sand and Investment casting
+- Bearings and bearing arrangements
+- Spline shafts
 - Solidworks explosion animations and a lot about Solidworks Visualize
 - Generative AI in design
 - that I took a break from using Catia for a reason 😅
